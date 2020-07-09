@@ -1,4 +1,4 @@
-# Hello!, I'm Alfredo Herrera
+# Hello! I'm Alfredo Herrera
 
 Work
 - I currently work for [Pipefy, Inc.](www.pipefy.com), an amazing startup helping people get things done.
