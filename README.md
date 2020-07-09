@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**alfredherr/alfredherr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alfredo Herrera
 
-Here are some ideas to get you started:
+## Work
+I currently work for [Pipefy, Inc.](www.pipefy.com), an amazing startup helping people get things done.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Interests
+
+My current language interests are [Elixir](www.elixir-lang.org) and [Erlang](erlang.org).
+
+I'm currently reading [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451). 
+
+And I'm putting together a workshop how to be an effective Software Engineer.
+
+## Other Projects
