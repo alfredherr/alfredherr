@@ -8,4 +8,4 @@ Current Interests & Projects
 
 - I'm currently reading [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451). 
 
-- And I'm putting together a workshop how to be an effective Software Engineer.
+- And I'm putting together a workshop how to be an effective Software Engineer (mostly for myself).
